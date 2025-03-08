@@ -16,7 +16,7 @@ Over the past **six years**, I have worked extensively in **Machine Learning, AI
 
 My passion for data began during my **B.Eng in Computer Science**, where I was awarded a **Government Grant for Young Researchers**. This allowed me to apply **AI for mass and nodule detection on X-rays** and document my findings to contribute to the broader AI knowledge base.  
 
-Later, I collaborated with **SENACYT and the University of [Your Home Country]**, working in **cross-functional teams** with some of the brightest minds in my country. During the **COVID-19 pandemic**, I played a key role in **processing real-time data for visualization**, helping both the **public and government make informed decisions**.  
+Later, I collaborated with **National Secretariat of Science and Technology (SENACYT) and the Technological University of Panama  **, working in **cross-functional teams** with some of the brightest minds in my country. During the **COVID-19 pandemic**, I played a key role in **processing real-time data for visualization**, helping both the **public and government make informed decisions**.  
 
 Realizing the importance of **statistics and probability** in transforming data into actionable insights, I pursued an **MSc in Data Analytics at the University of Glasgow**. Since then, I have **continued expanding my expertise** through certifications from **IBM, Databricks, and Microsoft**.
 
