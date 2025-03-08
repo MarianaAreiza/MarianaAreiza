@@ -7,6 +7,7 @@ I am a **Data Engineer passionate about transforming raw data into meaningful in
 Over the past **six years**, I have worked extensively in **Machine Learning, AI, and Data Processing**, contributing to projects that:  
 ✅ Generated **over $100 million in revenue** through automation and AI knowledge exploration  
 ✅ Produced **three indexed public articles** [see](https://orcid.org/0000-0003-2937-4383) and [see](https://dblp.org/pid/297/4032.html) 
+
 ✅ Freed up **100+ hours of resources**  
 ✅ Played a key role in **transforming companies into data-driven organizations, unlocking new possibilities and innovation**  
 
@@ -25,11 +26,16 @@ Realizing the importance of **statistics and probability** in transforming data 
 ### **🎤 Educator, Mentor & AI Advocate**  
 
 Beyond my technical expertise, I am passionate about **education and mentoring**.  
-🎙️ **Keynote Speaker** at various conferences on AI & Data Science  
+🎙️ **Keynote Speaker** at various conferences on AI & Data Science
+
 📚 **Trainer & Mentor**, helping **150+ individuals (ages 12 to 50)** advance their programming and AI skills  
+
 🏆 Active contributor to **AI and Data Engineering communities** 
-🎯 **Featured in company-wide mentorship initiatives**, guiding new hires and fostering a culture of continuous learning. 🔗 [Watch]([https://www.facebook.com/UTP-Sede-Chiriqui-288595827818519/videos/quinta-partecasos-de-%C3%A9xito-jornada-de-iniciaci%C3%B3n-cient%C3%ADfica-mariana-areiza-egres/395973985441969/](https://www.google.com/imgres?imgurl=https://media.licdn.com/dms/image/v2/D4D10AQHoaSeGWH2jSg/image-shrink_800/image-shrink_800/0/1690244578517/PanamaPNG?e%3D2147483647%26v%3Dbeta%26t%3DWBNclx7LOJ-JypmsBWOULZb6hjwdvgNt4vxqVK2T5Uo&tbnid=jH3cSY3ExfwZDM&vet=1&imgrefurl=https://pa.linkedin.com/in/mariana-dayneth-areiza-quintero-160bb2174&docid=FcKuG1q6OwjbaM&w=800&h=413&itg=1&source=sh/x/im/m5/2&kgs=90f93376ef76881c))
+
+🎯 **Featured in company-wide mentorship initiatives**, guiding new hires and fostering a culture of continuous learning. 🔗 [Watch]([https://www.facebook.com/UTP-Sede-Chiriqui-288595827818519/videos/quinta-partecasos-de-%C3%A9xito-jornada-de-iniciaci%C3%B3n-cient%C3%ADfica-mariana-areiza-egres/395973985441969/](https://www.google.com/imgres?imgurl=https://media.licdn.com/dms/image/v2/D4D10AQHoaSeGWH2jSg/image-shrink_800/image-shrink_800/0/1690244578517/PanamaPNG?e%3D2147483647%26v%3Dbeta%26t%3DWBNclx7LOJ-JypmsBWOULZb6hjwdvgNt4vxqVK2T5Uo&tbnid=jH3cSY3ExfwZDM&vet=1&imgrefurl=https://pa.linkedin.com/in/mariana-dayneth-areiza-quintero-160bb2174&docid=FcKuG1q6OwjbaM&w=800&h=413&itg=1&source=sh/x/im/m5/2&kgs=90f93376ef76881c)
+
 📢 **Recognized as the face of marketing campaigns**, advocating for AI-driven transformation and professional growth.
+
 🎥 **Highlighted in an interview by Universidad Tecnológica de Panamá (UTP)**, discussing mentorship and scientific research contributions.
 🔗 [Watch the Interview](https://www.facebook.com/UTP-Sede-Chiriqui-288595827818519/videos/quinta-partecasos-de-%C3%A9xito-jornada-de-iniciaci%C3%B3n-cient%C3%ADfica-mariana-areiza-egres/395973985441969/)
 
