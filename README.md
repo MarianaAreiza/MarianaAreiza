@@ -6,7 +6,7 @@ I am a **Data Engineer passionate about transforming raw data into meaningful in
 
 Over the past **six years**, I have worked extensively in **Machine Learning, AI, and Data Processing**, contributing to projects that:  
 ✅ Generated **over $100 million in revenue** through automation and AI knowledge exploration  
-✅ Produced **three indexed public articles** [see](https://orcid.org/0000-0003-2937-4383) and [see](https://dblp.org/pid/297/4032.html)
+✅ Produced **three indexed public articles** [see](https://orcid.org/0000-0003-2937-4383) and [see](https://dblp.org/pid/297/4032.html) 
 ✅ Freed up **100+ hours of resources**  
 ✅ Played a key role in **transforming companies into data-driven organizations, unlocking new possibilities and innovation**  
 
