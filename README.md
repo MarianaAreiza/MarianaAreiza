@@ -32,7 +32,7 @@ Beyond my technical expertise, I am passionate about **education and mentoring**
 
 🏆 Active contributor to **AI and Data Engineering communities** 
 
-🎯 **Featured in company-wide mentorship initiatives**, guiding new hires and fostering a culture of continuous learning. 🔗 [Watch]([https://www.facebook.com/UTP-Sede-Chiriqui-288595827818519/videos/quinta-partecasos-de-%C3%A9xito-jornada-de-iniciaci%C3%B3n-cient%C3%ADfica-mariana-areiza-egres/395973985441969/](https://www.google.com/imgres?imgurl=https://media.licdn.com/dms/image/v2/D4D10AQHoaSeGWH2jSg/image-shrink_800/image-shrink_800/0/1690244578517/PanamaPNG?e%3D2147483647%26v%3Dbeta%26t%3DWBNclx7LOJ-JypmsBWOULZb6hjwdvgNt4vxqVK2T5Uo&tbnid=jH3cSY3ExfwZDM&vet=1&imgrefurl=https://pa.linkedin.com/in/mariana-dayneth-areiza-quintero-160bb2174&docid=FcKuG1q6OwjbaM&w=800&h=413&itg=1&source=sh/x/im/m5/2&kgs=90f93376ef76881c)
+🎯 **Featured in company-wide mentorship initiatives**, guiding new hires and fostering a culture of continuous learning. 🔗 [Watch](https://www.google.com/imgres?imgurl=https://media.licdn.com/dms/image/v2/D4D10AQHoaSeGWH2jSg/image-shrink_800/image-shrink_800/0/1690244578517/PanamaPNG?e%3D2147483647%26v%3Dbeta%26t%3DWBNclx7LOJ-JypmsBWOULZb6hjwdvgNt4vxqVK2T5Uo&tbnid=jH3cSY3ExfwZDM&vet=1&imgrefurl=https://pa.linkedin.com/in/mariana-dayneth-areiza-quintero-160bb2174&docid=FcKuG1q6OwjbaM&w=800&h=413&itg=1&source=sh/x/im/m5/2&kgs=90f93376ef76881c)
 
 📢 **Recognized as the face of marketing campaigns**, advocating for AI-driven transformation and professional growth.
 
